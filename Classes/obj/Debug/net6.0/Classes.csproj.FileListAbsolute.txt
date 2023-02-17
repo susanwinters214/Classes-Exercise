@@ -1,0 +1,15 @@
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.exe
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.dll
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.pdb
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.dll
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.pdb
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\REPOS\TrueCoders\csharp\Classes-Exercise\Classes\obj\Debug\net6.0\ref\Classes.dll
